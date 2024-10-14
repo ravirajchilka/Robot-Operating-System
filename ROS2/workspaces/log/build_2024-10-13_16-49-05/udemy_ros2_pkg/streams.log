@@ -1,0 +1,26 @@
+[0.006s] Invoking command in '/home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg -- -j32 -l32
+[0.022s] [35m[1mConsolidate compiler generated dependencies of target publisher[0m
+[0.029s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[1.890s] [100%] [32m[1mLinking CXX executable publisher[0m
+[2.136s] [100%] Built target publisher
+[2.141s] Invoked command in '/home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg -- -j32 -l32
+[2.153s] Invoking command in '/home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg
+[2.155s] -- Install configuration: ""
+[2.155s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/publisher
+[2.156s] -- Set runtime path of "/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/publisher" to ""
+[2.156s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/package_run_dependencies/udemy_ros2_pkg
+[2.156s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/parent_prefix_path/udemy_ros2_pkg
+[2.156s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.sh
+[2.156s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.dsv
+[2.156s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.sh
+[2.156s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.dsv
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.bash
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.sh
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.zsh
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.dsv
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.dsv
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/packages/udemy_ros2_pkg
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig.cmake
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig-version.cmake
+[2.157s] -- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.xml
+[2.158s] Invoked command in '/home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg

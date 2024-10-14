@@ -1,0 +1,16 @@
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/publisher
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/package_run_dependencies/udemy_ros2_pkg
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/parent_prefix_path/udemy_ros2_pkg
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.sh
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.dsv
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.sh
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.dsv
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.bash
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.sh
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.zsh
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.dsv
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.dsv
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/packages/udemy_ros2_pkg
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig.cmake
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig-version.cmake
+/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.xml

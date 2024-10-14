@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target publisher[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable publisher[0m
+[100%] Built target publisher
+-- Install configuration: ""
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/publisher
+-- Set runtime path of "/home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/publisher" to ""
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/package_run_dependencies/udemy_ros2_pkg
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/parent_prefix_path/udemy_ros2_pkg
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.sh
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.dsv
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.sh
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.dsv
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.bash
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.sh
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.zsh
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.dsv
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.dsv
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/ament_index/resource_index/packages/udemy_ros2_pkg
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig.cmake
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig-version.cmake
+-- Installing: /home/raviraj/Documents/ROS2/workspaces/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.xml

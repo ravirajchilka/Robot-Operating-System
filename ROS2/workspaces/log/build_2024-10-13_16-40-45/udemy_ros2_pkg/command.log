@@ -1,0 +1,2 @@
+Invoking command in '/home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg -- -j32 -l32
+Invoked command in '/home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/raviraj/Documents/ROS2/workspaces/build/udemy_ros2_pkg -- -j32 -l32

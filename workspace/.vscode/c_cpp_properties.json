@@ -1,15 +1,18 @@
 {
   "configurations": [
     {
-      "name": "windows-gcc-x64",
+      "name": "ROS2_WSL",
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/**",
+        "/home/raviraj/Documents/ROS2/workspaces/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
       ],
       "defines": [],
-      "compilerPath": "C:/winlibs-x86_64-mcf-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.1-r2/mingw64/bin/gcc.exe",
-      "cStandard": "${default}",
-      "cppStandard": "${default}",
-      "intelliSenseMode": "windows-gcc-x64"
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
     }
   ],
   "version": 4

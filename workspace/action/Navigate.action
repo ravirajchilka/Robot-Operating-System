@@ -1,0 +1,15 @@
+# goal
+geometry_msgs/Point goal_point # x,y,z
+
+---
+
+# result
+float64 elapsed_time # in seconds
+
+---
+
+# feedback
+float64 distance_to_point # in meters
+
+
+

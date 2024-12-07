@@ -3,7 +3,7 @@
 #include <thread>
 #include <stdexcept>
 #include <cstdint>
-#include "led_blink_button_logic.hpp"
+#include "../../udemy_ros2_pkg/include/udemy_ros2_pkg/led_blink_button_logic.hpp"
 
 BlinkLEDbuttonClick::BlinkLEDbuttonClick()
 	: gpiopathname("/dev/gpiochip0"),
@@ -56,10 +56,10 @@ void BlinkLEDbuttonClick::blinkLEDonBtn(std::uint16_t onTime, std::uint16_t offT
     }
 };
 
-// int main() {
+int main() {
 
-//     BlinkLEDbuttonClick bllinkld;
-//     bllinkld.blinkLEDonBtn(100,200);
-//     return 0;
-// }
+    BlinkLEDbuttonClick bllinkld;
+    bllinkld.blinkLEDonBtn(1000,2000);
+    return 0;
+}
 
